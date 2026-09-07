@@ -66,7 +66,6 @@ dwasim/
   historical/         earlier protocols and visualizations, not default runs
 tests/                data-independent regression tests
 docs/                 data, experiment and theory documentation
-archive/flat_v1/      byte-identical pre-migration sources for provenance
 ```
 
 Current numerical routines have explicit package imports; shared data,
